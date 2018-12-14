@@ -8,3 +8,4 @@ Types	Recording light or other electromagnetic radiation
 Inventor	Thomas Wedgwood (1800)
 Related	Stereoscopic, Full-spectrum, Light field, Electrophotography, Photograms, Scanner
 Photography is the art, application and practice of creating durable images by recording light or other electromagnetic radiation, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film. It is employed in many fields of science, manufacturing (e.g., photolithography), and business, as well as its more direct uses for art, film and video production, recreational purposes, hobby, and mass communication. 
+Typically, a lens is used to focus the light reflected or emitted from objects into a real image on the light-sensitive surface inside a camera during a timed exposure.
